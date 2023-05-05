@@ -1,0 +1,5 @@
+.todoTask {
+  display: flex;
+  gap: 10px;
+  list-style-type: circle;
+}
